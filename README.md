@@ -1,15 +1,10 @@
 <h1 align="center">Olá 👋, eu sou o Igor Martins</h1>
-<h3 align="center">Apaixonado por Análise de Dados para tomada de decisão.</h3>
 
-- 🔭 Atualmente estou trabalhando com Análise de Dados e Pricing na empresa. **CNH Industrial**
+Sou Engenheiro de Dados há 4 anos, especializado em resolver problemas complexos relacionados a Churn, Fraudes financeiras e Segmentação de base de clientes para uma grande operadora de telecomunicações. Também atuo como consultor de dados na Lynx, onde ajudo clientes de médio e grande porte de diversos setores a encontrarem a melhor solução de dados com o menor custo.
 
-- 🌱 Estou aprendendo **Machine Learning e Web Scraping** para me especializar em Ciência de Dados.
+Meu trabalho envolve todo o ciclo de projetos de dados, desde a extração de dados de diferentes fontes, passando pela transformação e organização em ambientes de Data Warehouse e Data Lake, até a construção de modelos de machine learning ou dashboards. Além disso, possuo experiência em automação de processos repetitivos e implementação de soluções em nuvem de forma eficiente.
 
-- 💬 Me pergunte sobre **Excel, Python, Data Studio**
-
-- 📫 Você pode entrar em contato comigo pelo email **igormartins0301@gmail.com**
-
-- 📄 Minhas experiências profissionais estão aqui [www.linkedin.com/in/igormartins0301](www.linkedin.com/in/igormartins0301)
+Domino ferramentas como Python, Spark/Pyspark, SQL, Airflow e ferramentas cloud (AWS e Azure), o que me permite entregar soluções de dados de alta qualidade e impacto para os negócios.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
