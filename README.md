@@ -1,10 +1,6 @@
 <h1 align="center">Olá 👋, eu sou o Igor Martins</h1>
 
-Sou Engenheiro de Dados há 4 anos, especializado em resolver problemas complexos relacionados a Churn, Fraudes financeiras e Segmentação de base de clientes para uma grande operadora de telecomunicações. Também atuo como consultor de dados na Lynx, onde ajudo clientes de médio e grande porte de diversos setores a encontrarem a melhor solução de dados com o menor custo.
-
-Meu trabalho envolve todo o ciclo de projetos de dados, desde a extração de dados de diferentes fontes, passando pela transformação e organização em ambientes de Data Warehouse e Data Lake, até a construção de modelos de machine learning ou dashboards. Além disso, possuo experiência em automação de processos repetitivos e implementação de soluções em nuvem de forma eficiente.
-
-Domino ferramentas como Python, Spark/Pyspark, SQL, Airflow e ferramentas cloud (AWS e Azure), o que me permite entregar soluções de dados de alta qualidade e impacto para os negócios.
+Engenheiro de Dados com 5 anos de experiência desenvolvendo, testando e mantendo soluções de dados para diversos segmentos como Marketing, Varejo, Mercado Financeiro e Telecom. Expertise em criação e manutenção de pipelines de dados distribuídos, com foco em escalabilidade, automação e eficiência operacional. Amplo conhecimento em arquitetura de dados (Data Lakes, Data Warehouses) e otimização de processos com Spark e PySpark, além de forte habilidade em Python e SQL. Experiência em colaborar com times de plataforma e governança para garantir a entrega de soluções robustas e de qualidade.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
